@@ -1,5 +1,7 @@
 # Week 2 Blog Post
 
+As inspiration for the future graphics projects I selected some artworks that I enjoyed a lot. 
+
 ## <Color> Wheel 2012
 
 Work by Jason Salavon Studio
