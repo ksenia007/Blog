@@ -37,3 +37,12 @@ Link: https://vimeo.com/7174318
 This is an artwork originally created in ActionScript. As described by the author, “Audio responsive video exploration, based on audio input, randomness and mouse gestures.”. Therefore, the original video was created as a response to the sound and mouse movements, and at the end we get this amazing cartoon, with interesting geometric transformations. I think that this is a good example of the possibilities for the interactive animation that I find especially appealing. 
 
 
+# Week 3 Blog Post
+
+For my "hello world" works, I created two animations. One is a simple square and lines, and the other one is stars appearing and forming 'hello world':
+<p align="center">
+  <img src="images/helloWorld.png" width="350"/>
+   <img src="images/rec.png" width="350"/>
+</p>
+
+I really enjoyed the process of creating these pieces. I spent the most time of the starry sky, specifically the animation and updating the star locations. This is still work in progress, as I will need to change the way the star locations are saved and processed. It would also be better to make a separate function for drawing the stars from the array. I am still a little confused about the best way to create animations in p5.js. To continue the work I plan to read the Creative coding in p5.js book and practice more with the animation. I also hope to look at the tutorials from the Nature of Code examples for p5js. 
