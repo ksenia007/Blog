@@ -1,4 +1,4 @@
-# Blog
+# Week 2 Blog Post
 
 ## <Color> Wheel 2012
 
@@ -24,7 +24,7 @@ Link: https://www.flickr.com/photos/kylemcdonald/sets/72157625874470177
 
 This is a project available on Flickr. The author recorded the last 256 clicks, specifically the small window around the point where the mouse was clicked. This images were then connected into one image. I found this project to be very interesting, as it explores our behavior as a user, and can reveal some patterns. I also think that it would be interesting to repeat the experiment and see whether different users would get significantly different results. Unfortunately, there is no interactive part beyond creation of these. 
 
-##Flightpattern
+## Flightpattern
 
 Artwork published on Vimeo by Gwen Vanhee
 <p align="center">
