@@ -46,3 +46,26 @@ For my "hello world" works, I created two animations. One is a simple square and
 </p>
 
 I really enjoyed the process of creating these pieces. I spent the most time of the starry sky, specifically the animation and updating the star locations. This is still work in progress, as I will need to change the way the star locations are saved and processed. It would also be better to make a separate function for drawing the stars from the array. I am still a little confused about the best way to create animations in p5.js. To continue the work I plan to read the Creative coding in p5.js book and practice more with the animation. I also hope to look at the tutorials from the Nature of Code examples for p5js. 
+
+
+# Week 5 Blog Post
+
+The first piece of art I really like is available online on https://www.openprocessing.org/sketch/408882
+
+Here is a print screen of the resulting image:
+<p align="center">
+  <img src="images/smokeColor.png" width="350"/>
+</p>
+
+This code uses random noise() for the changes in shape generation and also a random numebr to set the color. I really enjoy this pieces, as it looks simple and clean, with neat lines and white background. 
+
+The other piece I really enjoey is very similar, and also uses noise(). The versio is available at https://www.openprocessing.org/sketch/431490
+
+The sketch is interactive, but here is something I got after playing with it for some time. 
+
+<p align="center">
+  <img src="images/noiseMount.png" width="350"/>
+</p>
+
+I like the color and the interactivity of the piece and also the simplicity of the code that generated it. 
+
