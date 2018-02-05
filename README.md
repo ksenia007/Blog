@@ -54,7 +54,7 @@ The first piece of art I really like is available online on https://www.openproc
 
 Here is a print screen of the resulting image:
 <p align="center">
-  <img src="images/smokeColor.png" width="350"/>
+  <img src="images/smokeColor.png" width="1050"/>
 </p>
 
 This code uses random noise() for the changes in shape generation and also a random numebr to set the color. I really enjoy this pieces, as it looks simple and clean, with neat lines and white background. 
@@ -64,7 +64,7 @@ The other piece I really enjoey is very similar, and also uses noise(). The vers
 The sketch is interactive, but here is something I got after playing with it for some time. 
 
 <p align="center">
-  <img src="images/noiseMount.png" width="350"/>
+  <img src="images/noiseMount.png" width="1050"/>
 </p>
 
 I like the color and the interactivity of the piece and also the simplicity of the code that generated it. 
