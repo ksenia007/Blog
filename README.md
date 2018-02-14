@@ -69,3 +69,10 @@ The sketch is interactive, but here is something I got after playing with it for
 
 I like the color and the interactivity of the piece and also the simplicity of the code that generated it. 
 
+# Week 6 Blog Post
+
+This project involved using random parameters, fine-tuned with the algorithmic design. Generally, I am comfortable with letting go the control and structure. However, this time I decided not to place the circles in the random positions and rather vary the size randomly and allow the user to add the circles. The size of the bend in the circle also is picked randomly. 
+
+Originally I wanted to do the lines moving out more randomly, emanating from the center. But I found out that the more consistent development produces a more pleasant design. So in a way, a more random process did not produce a good image. 
+
+
