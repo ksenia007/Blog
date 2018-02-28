@@ -75,4 +75,13 @@ This project involved using random parameters, fine-tuned with the algorithmic d
 
 Originally I wanted to do the lines moving out more randomly, emanating from the center. But I found out that the more consistent development produces a more pleasant design. So in a way, a more random process did not produce a good image. 
 
+# Week 8 Blog Post
+
+One of the visualizations I really like is called the Iraq's Bloody Toll by Simon Scarr. Through a creative use of a bar plot the author created a very interesting effect. I like the simplicity behind the plot - it is relatively simple to create a bar chart, but at the same time it is not easy to create a striking feeling behind it. The metaphor of the blood works really well (of cause, in a way the data is also shaped well). It takes a skillful eye to see a possibility here. 
+
+Another set of visualizations I find interesting come from a Wall Street Journal article "Battling Infectious Diseases in the 20th Century: The Impact of Vaccines". These shows the imapact of the vaccination on the number of sickness cases cases. Here, I like that the viewer can make a conclusion and see the effects right away, almost without looking at the legends or addicitional information. It is clear, uses good color and understandable from the first glance. (It is also interactive on hovering)
+http://graphics.wsj.com/infectious-diseases-and-vaccines/
+
+
+
 
