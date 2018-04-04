@@ -91,8 +91,8 @@ http://graphics.wsj.com/infectious-diseases-and-vaccines/
 # Week 11: Connecting things
 
 <p align="center">
-  <img src="/images/Abundance.jpg" height="550"/>
-   <img src="/images/notaBene.jpg" height="550"/>
+  <img src="/images/Abundance.jpg" height="350"/>
+   <img src="/images/notaBene.jpg" height="350"/>
 </p>
 
 One of the artworks I selected for the "Connecting things" is a temporary public installation in he City of San Jose, California *Abudance* by ZER01 – the Art and Technology Network. A video camera captures the movement of the visitors of the plaza, which is later analyzed and projected as animation onto the 3-story cylindrical rotunda. This animation, flowing, warm and humanizing transforms the strict and bold rotunda. Participants can locate themselves (or their representation) on the projection, making it a collective art, and rotunda - a canvas for it. 
