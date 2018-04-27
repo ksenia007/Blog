@@ -99,3 +99,10 @@ One of the artworks I selected for the "Connecting things" is a temporary public
 
 A second visualization is called *In Order To Control* and was created by NOTA BENE Visual. The text is projected on the floor, and as viewers entered the room, their shadows obscured the view. The text in the shadow was then projected onto the wall. To make sense of the text, views had to cooperate and coordinate their actions. The idea of the piece was the need to engage body and mind, and our capacities to 'move' and take action. 
 
+# Final blog post
+
+I really enjoyed this class. I found it very satisfying to create art using coding. I had not used JavaScript before and it was very interesting to learn p5js. Creating our own portfolio website was also very useful for the future and a good practice. It is rather rare for the CS classes to pay attention to the artistic part of the assignment, so I enjoyed actually trying to figure that out. 
+
+If I had to pick the most exciting part of the course I would say that it was the ability to create art using code. I think that some artwork calls to be generative and would be very painful and time consuming to produce by hand. The hardest part of the class, on the other hand, was to create something that would be meaningfully interactive. I found myself to be more interested in either the animation or just the final product, and so a lot of time it would take me some time to come up with the interaction process and idea. 
+
+
