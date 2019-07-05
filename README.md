@@ -95,7 +95,7 @@ http://graphics.wsj.com/infectious-diseases-and-vaccines/
    <img src="/images/notaBene.jpg" height="350"/>
 </p>
 
-One of the artworks I selected for the "Connecting things" is a temporary public installation in he City of San Jose, California *Abudance* by ZER01 – the Art and Technology Network. A video camera captures the movement of the visitors of the plaza, which is later analyzed and projected as animation onto the 3-story cylindrical rotunda. This animation, flowing, warm and humanizing transforms the strict and bold rotunda. Participants can locate themselves (or their representation) on the projection, making it a collective art, and rotunda - a canvas for it. 
+One of the artworks I selected for the "Connecting things" is a temporary public installation in the City of San Jose, California *Abundance* by ZER01 – the Art and Technology Network. A video camera captures the movement of the visitors of the plaza, which is later analyzed and projected as animation onto the 3-story cylindrical rotunda. This animation, flowing, warm and humanizing transforms the strict and bold rotunda. Participants can locate themselves (or their representation) on the projection, making it a collective art, and rotunda - a canvas for it. 
 
 A second visualization is called *In Order To Control* and was created by NOTA BENE Visual. The text is projected on the floor, and as viewers entered the room, their shadows obscured the view. The text in the shadow was then projected onto the wall. To make sense of the text, views had to cooperate and coordinate their actions. The idea of the piece was the need to engage body and mind, and our capacities to 'move' and take action. 
 
